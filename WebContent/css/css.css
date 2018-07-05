@@ -1,0 +1,127 @@
+@CHARSET "utf-8";
+
+	/* accomListForm.jsp  */
+	
+	.accom_total {z-index:100; width:50%; min-width:600; height:100%; margin-top:20px; position:relative; background-color: #fff}
+	.accom_tle {height:200; position:relative; }
+	.accom_image_tle {width:40%; height:100%; float:left;}
+	.accom_info {margin-left:20px; width:50%; height:100%; float:left;}
+	.accom_image {width:100%; height:180; max-width:300;}
+	
+
+	/* header.jsp */
+	.ccc {width: 130 !important; float:left;}
+	.main_menu {float:right; margin-right:20px}
+	/* accomRoomForm.jsp */
+	.room_image_size {width:500; height:300;}
+	
+	
+	/* accomReserForm.jsp  */
+	
+	.room_reser_tle {width:700px; height:300; border:1px solid #e0e0eb; margin-bottom:20px;}
+	input[type=radio]:nth-of-type(1) {display:none;}
+    input[type=radio]:nth-of-type(1) ~ div:nth-of-type(1) {display:none;}
+    input[type=radio]:nth-of-type(1):checked ~ div:nth-of-type(1) {display:block;}
+       
+    input[type=radio]:nth-of-type(2) {display:none;}
+    input[type=radio]:nth-of-type(2) ~ div:nth-of-type(2) {display:none;}
+    input[type=radio]:nth-of-type(2):checked ~ div:nth-of-type(2) {display:block;}
+    
+	section.room_buttons {overflow:hidden;}
+	section.room_buttons > .room_label {
+
+            display:block;
+            float:left;
+
+            width:100%;
+            height:40px;
+            line-height:40px;
+            text-align:center;
+
+            box-sizing: border-box;
+            border-bottom:1px solid #e0e0eb;
+
+            background:white;
+            color:black;
+            !important;
+
+    }  
+    section.room_buttons > label {
+
+            display:block;
+            float:left;
+
+            width:50%;
+            height:40px;
+            line-height:40px;
+            text-align:center;
+
+            box-sizing: border-box;
+			border-bottom:1px solid #e0e0eb;
+			
+            background:white;
+            color:black;
+
+    }    
+    
+    input[type=radio]:nth-of-type(1):checked ~ section.room_buttons > label:nth-of-type(1){
+        background:black;
+        color:white;
+    }
+
+    input[type=radio]:nth-of-type(2):checked ~ section.room_buttons > label:nth-of-type(2) {
+        background: black;
+        color: white;
+    }
+    
+    
+/* member */   
+    
+.pass2 input {
+	width: 70%;
+	float: left;
+}
+
+.pwdch {
+	width: 30%;
+	float: right;
+}
+
+#insertContainer {
+	width: 600px;
+	margin: 0 auto;
+}
+
+.register input {
+	margin: 0;
+	padding: 10px 0;
+	background: #006dcc;
+	width: 570px;
+}
+
+.cansel input {
+	margin-top: 10px;
+	padding: 10px 0;
+	background: #006dcc;
+	width: 570px;
+}
+
+.addzip input {
+	float: left;
+	margin-right: 10px;
+}
+
+/* --------------- 171006 추가 -------------------*/
+.main_header {
+	min-width: 1550px;
+	height: 70px;
+	overflow: hidden;
+}
+
+.main_header .title {
+	float: left;
+}
+
+.main_header .header_buttons {
+	float: right;
+}
