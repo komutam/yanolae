@@ -1,16 +1,16 @@
 ## yanolae
 
-### プロジェクト
+### 팀 프로젝트
 		 
-* Hotel予約サイト
+* 숙소 예약 사이트
 		 
-### 概要
+### 개요
 
-* 日取りを決めて部屋を予約できるサイト
+* 날짜를 정해서 방을 예약하는 사이트
 		 
 ### 貢献した内容
  	
- * 4名のチームプロジェクト : 担当 - ログイン, 会員登録, メインページのデザイン
+ * 4명의 팀 프로젝트 : 자신의 담당 - 로그인, 회원가입, 메인페이지 디자인
 		
  * JAVA, JSP, JSTL, EL
 		
@@ -19,4 +19,4 @@
  * Eclips, Apache Tomcat v8.0, MySQL
  
  ### portfolio ppt link
- https://www.slideshare.net/ssuser25d7ff/jhs-team-portfolio
+ https://www.slideshare.net/ssuser25d7ff/team-pro-portfolio
