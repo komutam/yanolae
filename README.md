@@ -20,3 +20,6 @@
  
  ### portfolio ppt link
  https://www.slideshare.net/ssuser25d7ff/team-pro-portfolio
+
+ ### portfolio ppt link(日本語)
+https://www.slideshare.net/ssuser25d7ff/jhs-team-portfolio
