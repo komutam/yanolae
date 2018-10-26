@@ -31,7 +31,7 @@
  * Eclips, Apache Tomcat v8.0, MySQL
  
  ### portfolio ppt link
- https://www.slideshare.net/ssuser25d7ff/team-pro-portfolio
+ https://www.slideshare.net/ssuser25d7ff/team-portfolio-120843769
 
 
 ## yanolae(日本語)
